@@ -584,3 +584,6 @@ ieva_data/
 /timeline_01.json.ctf.json
 /trace_1000it.ctf.json
 /trace_1it.ctf.json
+
+# remove checkpoints folder
+checkpoints
